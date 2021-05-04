@@ -1,9 +1,8 @@
 ### hola 👋
 
-<!--
-**francealliata/francealliata** Este es mi readme ✨_fachero_✨ 
+**francealliata** Este es mi readme ✨_fachero_✨ 
 
-Here are some ideas to get you started:
+Cuento un poco:
 
 - 🔭 Estudiante de Ingenieria en informatica
 - 🌱 Tratando de mejorar en Python y en Javascript
