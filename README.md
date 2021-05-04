@@ -10,3 +10,4 @@ Cuento un poco:
 - 🤔 Tengo que practicar mas data science
 - 📫 Me podes mandar un Mail
 -->
+Link Linkedin: linkedin.com/in/francesco-alliata-di-montereale-1950b3138/
