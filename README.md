@@ -1,6 +1,8 @@
 ### hola 👋
 
-**francealliata** Este es mi readme ✨_fachero_✨ 
+**Soy francealliata** 
+
+Este es mi readme ✨fachero✨ 
 
 Cuento un poco:
 
